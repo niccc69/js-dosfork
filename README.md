@@ -100,7 +100,7 @@ To run built-in example do:
 hs .
 firefox examples/digger/index.html
 ```
-
+modz was here
 # Older releases
 
 * [js-dos 6.22](https://js-dos.com/index_6.22.html)
